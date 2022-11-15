@@ -7,14 +7,6 @@
 
 
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmuley)](https://github.com/avinashmuley/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmuley&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/avinashmuley/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmuley&layout=compact)](https://github.com/avinashmuley/github-readme-stats)
 <!---
 avinashmuley/avinashmuley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
